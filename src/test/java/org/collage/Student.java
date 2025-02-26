@@ -14,15 +14,15 @@ public class Student {
 
 	}
 
-	public void studentName1() {
+	public void NameType() {
 		System.out.println("studentName:srinivasan R");
 	}
 
-	public void studenDepartment2() {
+	public void DepartmentType() {
 		System.out.println("studentDepartment:CSE");
 	}
 
-	public void studenId3() {
+	public void studentType() {
 		System.out.println("studentId:101");
 
 	}
